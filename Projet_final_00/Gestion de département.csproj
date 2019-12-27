@@ -1,0 +1,755 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8B73E378-F794-42C2-B70E-98C3E9E00BD9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projet_final_00</RootNamespace>
+    <AssemblyName>Gestion De Département</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>UNIV%281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\..\Downloads\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.5.6403.13419, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.5.6403.13419\lib\net35-client\CircularProgressBar.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CRVsPackageLib, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.TemplateEngine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Viewing.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ClientDoc, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommLayer, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonControls, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonObjectModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.Controllers, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CubeDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataSetConversion, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportAppServer.ObjectFactory, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.Prompting, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ReportDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.XmlSerialize, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.VSDesigner, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="mysql.data, Version=6.10.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\android\mysql-for-visualstudio-1.2.7-noinstall\v45\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="mysqlbackup">
+      <HintPath>E:\3 éme informatique\INFO PGM\Visual Studio\mysqlbackup.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.5.6298.3372, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.5.6298.3372\lib\net35-client\WinFormAnimation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cr_report_print\Cr_Form_Print_List_Etud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cr_report_print\Cr_Form_Print_List_Etud.Designer.cs">
+      <DependentUpon>Cr_Form_Print_List_Etud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cr_report_print\Cr_Form_Print_List_Nots.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cr_report_print\Cr_Form_Print_List_Nots.Designer.cs">
+      <DependentUpon>Cr_Form_Print_List_Nots.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cr_report_print\Cr_Form_certificat_scolarité.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cr_report_print\Cr_Form_certificat_scolarité.Designer.cs">
+      <DependentUpon>Cr_Form_certificat_scolarité.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cr_report_print\Cr_print_certificat_scolarité.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_print_certificat_scolarité.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_report_print\Cr_Print_List_Etud.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_Print_List_Etud.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_report_print\Cr_Print_List_Nots.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_Print_List_Nots.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DATA_BASE\DataBase.cs" />
+    <Compile Include="Forms\A propose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\A propose.Designer.cs">
+      <DependentUpon>A propose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\Ajouter_ensiegnant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\Ajouter_ensiegnant.Designer.cs">
+      <DependentUpon>Ajouter_ensiegnant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\Ajouter_etudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\Ajouter_etudiant.Designer.cs">
+      <DependentUpon>Ajouter_etudiant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\Confiduration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\Confiduration.Designer.cs">
+      <DependentUpon>Confiduration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\Gestion_emploi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\Gestion_emploi.Designer.cs">
+      <DependentUpon>Gestion_emploi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\Gestion_enseinant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\Gestion_enseinant.Designer.cs">
+      <DependentUpon>Gestion_enseinant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\Gestion_etudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\Gestion_etudiant.Designer.cs">
+      <DependentUpon>Gestion_etudiant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\Gestion_notes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\Gestion_notes.Designer.cs">
+      <DependentUpon>Gestion_notes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\Get_Emploi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\Get_Emploi.Designer.cs">
+      <DependentUpon>Get_Emploi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\Get_Groupe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\Get_Groupe.Designer.cs">
+      <DependentUpon>Get_Groupe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\Get_Note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\Get_Note.Designer.cs">
+      <DependentUpon>Get_Note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\Get_Salle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\Get_Salle.Designer.cs">
+      <DependentUpon>Get_Salle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\Print.Designer.cs">
+      <DependentUpon>Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Configue_Server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Configue_Server.Designer.cs">
+      <DependentUpon>Configue_Server.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Connection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Connection.Designer.cs">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\administration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\administration.Designer.cs">
+      <DependentUpon>administration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Déclaration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Déclaration.Designer.cs">
+      <DependentUpon>Déclaration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\démarage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\démarage.Designer.cs">
+      <DependentUpon>démarage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\enseignant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\enseignant.Designer.cs">
+      <DependentUpon>enseignant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\etudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\etudiant.Designer.cs">
+      <DependentUpon>etudiant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\moyennes\Info_S3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\moyennes\Info_S3.Designer.cs">
+      <DependentUpon>Info_S3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\moyennes\Info_S4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\moyennes\Info_S4.Designer.cs">
+      <DependentUpon>Info_S4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\moyennes\Info_S5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\moyennes\Info_S5.Designer.cs">
+      <DependentUpon>Info_S5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\moyennes\Info_S6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\moyennes\Info_S6.Designer.cs">
+      <DependentUpon>Info_S6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\moyennes\Math_S3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\moyennes\Math_S3.Designer.cs">
+      <DependentUpon>Math_S3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\moyennes\Math_S4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\moyennes\Math_S4.Designer.cs">
+      <DependentUpon>Math_S4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\moyennes\Math_S5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\moyennes\Math_S5.Designer.cs">
+      <DependentUpon>Math_S5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\moyennes\Math_S6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\moyennes\Math_S6.Designer.cs">
+      <DependentUpon>Math_S6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\moyennes\MI_S1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\moyennes\MI_S1.Designer.cs">
+      <DependentUpon>MI_S1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\moyennes\MI_S2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\moyennes\MI_S2.Designer.cs">
+      <DependentUpon>MI_S2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\Get_Module.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\Get_Module.Designer.cs">
+      <DependentUpon>Get_Module.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="LOGINS\Class_Login.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UC_file\UC_001.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_file\UC_001.Designer.cs">
+      <DependentUpon>UC_001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_file\UC_002.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_file\UC_002.Designer.cs">
+      <DependentUpon>UC_002.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_file\UC_003.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_file\UC_003.Designer.cs">
+      <DependentUpon>UC_003.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_file\UC_004.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_file\UC_004.Designer.cs">
+      <DependentUpon>UC_004.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Cr_report_print\Cr_Form_Print_List_Etud.resx">
+      <DependentUpon>Cr_Form_Print_List_Etud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_report_print\Cr_Form_Print_List_Nots.resx">
+      <DependentUpon>Cr_Form_Print_List_Nots.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_report_print\Cr_Form_certificat_scolarité.resx">
+      <DependentUpon>Cr_Form_certificat_scolarité.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_report_print\Cr_print_certificat_scolarité.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_print_certificat_scolarité.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_report_print\Cr_Print_List_Etud.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_Print_List_Etud.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_report_print\Cr_Print_List_Nots.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_Print_List_Nots.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\A propose.resx">
+      <DependentUpon>A propose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\administration.resx">
+      <DependentUpon>administration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\Ajouter_ensiegnant.resx">
+      <DependentUpon>Ajouter_ensiegnant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\Ajouter_etudiant.resx">
+      <DependentUpon>Ajouter_etudiant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\Confiduration.resx">
+      <DependentUpon>Confiduration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\Gestion_emploi.resx">
+      <DependentUpon>Gestion_emploi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\Gestion_enseinant.resx">
+      <DependentUpon>Gestion_enseinant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\Gestion_etudiant.resx">
+      <DependentUpon>Gestion_etudiant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\Gestion_notes.resx">
+      <DependentUpon>Gestion_notes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\Get_Emploi.resx">
+      <DependentUpon>Get_Emploi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\Get_Groupe.resx">
+      <DependentUpon>Get_Groupe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\Get_Note.resx">
+      <DependentUpon>Get_Note.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\Get_Salle.resx">
+      <DependentUpon>Get_Salle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\Print.resx">
+      <DependentUpon>Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Configue_Server.resx">
+      <DependentUpon>Configue_Server.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Connection.resx">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Déclaration.resx">
+      <DependentUpon>Déclaration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\démarage.resx">
+      <DependentUpon>démarage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\enseignant.resx">
+      <DependentUpon>enseignant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\etudiant.resx">
+      <DependentUpon>etudiant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\moyennes\Info_S3.resx">
+      <DependentUpon>Info_S3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\moyennes\Info_S4.resx">
+      <DependentUpon>Info_S4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\moyennes\Info_S5.resx">
+      <DependentUpon>Info_S5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\moyennes\Info_S6.resx">
+      <DependentUpon>Info_S6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\moyennes\Math_S3.resx">
+      <DependentUpon>Math_S3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\moyennes\Math_S4.resx">
+      <DependentUpon>Math_S4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\moyennes\Math_S5.resx">
+      <DependentUpon>Math_S5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\moyennes\Math_S6.resx">
+      <DependentUpon>Math_S6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\moyennes\MI_S1.resx">
+      <DependentUpon>MI_S1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\moyennes\MI_S2.resx">
+      <DependentUpon>MI_S2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\Get_Module.resx">
+      <DependentUpon>Get_Module.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.administration.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.Connection.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.démarage.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.enseignant.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.etudiant.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Get_Module.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.home.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.UC_file.UC_001.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.UC_file.UC_002.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.UC_file.UC_003.resources" />
+    <EmbeddedResource Include="obj\Debug\Projet_final_00.UC_file.UC_004.resources" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UC_file\UC_001.resx">
+      <DependentUpon>UC_001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_file\UC_002.resx">
+      <DependentUpon>UC_002.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_file\UC_003.resx">
+      <DependentUpon>UC_003.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_file\UC_004.resx">
+      <DependentUpon>UC_004.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\Projet_final_00.exe.config" />
+    <None Include="bin\Debug\Projet_final_00.vshost.exe.config" />
+    <None Include="bin\Debug\Projet_final_00.vshost.exe.manifest" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\Gestion de département.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\Projet_final_00.csproj.GenerateResource.Cache" />
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Projet_final_00.Forms.etudiant.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_uzad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\worldwide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\031-login-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\032-login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\015-security.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENTETE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kolegos-72694434.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\talaba_991656277.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HD - Management Studies.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-cross-circular-interface-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-icon-silhouette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meeting-date.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings-interface-silhouette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-icon-silhouette1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Bunifu_UI_v1.52.dll" />
+    <Content Include="bin\Debug\CircularProgressBar.dll" />
+    <Content Include="bin\Debug\Microsoft.VisualBasic.PowerPacks.dll" />
+    <Content Include="bin\Debug\mysql.data.dll" />
+    <Content Include="bin\Debug\Projet_final_00.exe" />
+    <Content Include="bin\Debug\Projet_final_00.pdb" />
+    <Content Include="bin\Debug\Projet_final_00.vshost.exe" />
+    <Content Include="bin\Debug\WinFormAnimation.dll" />
+    <Content Include="obj\Debug\Gestion de département.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\Projet_final_00.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\Projet_final_00.exe" />
+    <Content Include="obj\Debug\Projet_final_00.pdb" />
+    <Content Include="obj\Debug\TempPE\CrystalReport1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\DataSet1.Designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="UNIV%281%29.ico" />
+    <None Include="Resources\statement.png" />
+    <None Include="Resources\Gestion de departement.jpg" />
+    <None Include="Resources\settings%281%29.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\repair-tools.png" />
+    <None Include="Resources\printer.png" />
+    <None Include="Resources\022-user-2.png" />
+    <None Include="Resources\015-user-8.png" />
+    <None Include="Resources\018-user-5.png" />
+    <None Include="Resources\017-user-6.png" />
+    <None Include="Resources\004-user-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,1205 @@
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\projet1\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\projet1\002\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\projet1\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\projet1\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\bin\Debug\mysql.data.dll
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\Massoud Benkouider\Desktop\002\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.exe
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.pdb
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.pdb
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\mysql.data.dll
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+E:\3 éme informatique\Projecte\MyApplication\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\B_OUSSAMA\Downloads\projet3\002\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Downloads\projet3\003\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Downloads\projet3\003 v\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Downloads\projet3\004\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Downloads\projet3\004\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Downloads\projet3\004\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\test\003\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\bin\Debug\mysql.data.dll
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\Massoud Benkouider\Desktop\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\test\005\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\test\005-vrais\Projet_final_00\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\bin\Debug\mysql.data.dll
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\Massoud Benkouider\Desktop\004\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\002\002\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\007\002\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\005 ~\002\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\bin\Debug\mysql.data.dll
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\Massoud Benkouider\Desktop\005\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\bin\Debug\mysql.data.dll
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\bin\Debug\mysql.data.xml
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\B_OUSSAMA\Desktop\vrai\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\bin\Debug\mysql.data.dll
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\Massoud Benkouider\Desktop\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\bin\Debug\CircularProgressBar.dll
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\bin\Debug\mysql.data.dll
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\bin\Debug\WinFormAnimation.dll
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\bin\Debug\CircularProgressBar.xml
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\bin\Debug\mysql.data.xml
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\bin\Debug\WinFormAnimation.xml
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\test\010\004\006\006\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S4.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S6.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S4.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S6.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\Massoud Benkouider\Desktop\007\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S4.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S6.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S4.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S6.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\massoud\007\007\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\vrai\008\007\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\vrai\008\007\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\vrai\008\007\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S4.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S6.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S4.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S6.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\013\Projet_final_00\obj\Debug\Projet_final_00.Forms.Configue_Server.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.Configue_Server.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S4.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S6.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S4.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S6.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\FlashControlV71.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\stdole.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.CR_forms.CR_Print_Notes.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.CR_forms.CR_Print_List_Groupe.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Print.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\EnvDTE.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\VSLangProj.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\VsWebSite.Interop.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\EnvDTE80.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\Microsoft.MSXML.dll
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Gestion de département.csproj.Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Backup_DataBase.resources
+C:\Users\B_OUSSAMA\Desktop\test\001\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_ensiegnant.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Gestion de département.csproj.Projet_final_00.exe.config
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.CR_forms.CR_Print_List_Groupe.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.CR_forms.CR_Print_Notes.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_ensiegnant.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Backup_DataBase.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Print.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.Configue_Server.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S4.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S6.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S4.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S6.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\FlashControlV71.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\EnvDTE.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\VSLangProj.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\VsWebSite.Interop.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\EnvDTE80.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\stdole.dll
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Massoud Benkouider\Desktop\010\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Desktop\massoud\008\010\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\massoud\008\010\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\massoud\008\010\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\FlashControlV71.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\EnvDTE.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\VSLangProj.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\VsWebSite.Interop.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\EnvDTE80.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\stdole.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Gestion de département.csproj.Projet_final_00.exe.config
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.CR_forms.CR_Print_List_Groupe.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.CR_forms.CR_Print_Notes.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_ensiegnant.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Print.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.Configue_Server.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S4.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S6.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S4.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S6.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Emploi.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\bin\Debug\mysqlbackup.dll
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Groupe.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Salle.resources
+C:\Users\Massoud Benkouider\Desktop\011\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\FlashControlV71.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\EnvDTE.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\VSLangProj.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\VsWebSite.Interop.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\EnvDTE80.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\stdole.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\Microsoft.MSXML.dll
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Gestion de département.csproj.Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Cr_Form_Print_List_Etud.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Cr_Form_Print_List_Nots.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_ensiegnant.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Emploi.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Groupe.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Salle.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Print.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.Configue_Server.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S4.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S6.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S4.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S6.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\test\017\011\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\FlashControlV71.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\EnvDTE.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\VSLangProj.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\VsWebSite.Interop.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\EnvDTE80.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\stdole.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\Microsoft.MSXML.dll
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Gestion de département.csproj.Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Cr_Form_Print_List_Etud.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Cr_Form_Print_List_Nots.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Cr_report_print.Cr_Form_certificat_scolarité.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_ensiegnant.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Emploi.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Groupe.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Salle.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Print.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.Configue_Server.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S4.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S6.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S4.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S6.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\018\011\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\FlashControlV71.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\mysqlbackup.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\EnvDTE.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\VSLangProj.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\VsWebSite.Interop.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\EnvDTE80.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\stdole.dll
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Gestion de département.csproj.Projet_final_00.exe.config
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Cr_Form_Print_List_Etud.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Cr_Form_Print_List_Nots.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Cr_report_print.Cr_Form_certificat_scolarité.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_ensiegnant.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Emploi.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Groupe.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Salle.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Print.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.Configue_Server.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S4.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S6.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S4.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S6.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\Massoud Benkouider\Desktop\016\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\FlashControlV71.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\EnvDTE.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\VSLangProj.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\VsWebSite.Interop.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\EnvDTE80.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\stdole.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\Microsoft.MSXML.dll
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Gestion de département.csproj.Projet_final_00.exe.config
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Cr_Form_Print_List_Etud.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Cr_Form_Print_List_Nots.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Cr_report_print.Cr_Form_certificat_scolarité.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_ensiegnant.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Emploi.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Groupe.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Salle.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Print.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.Configue_Server.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.Déclaration.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S4.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S6.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S4.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S6.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.exe
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.pdb
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Projet_final_00.Forms.A_propose.resources
+C:\Users\B_OUSSAMA\Desktop\test\019\016\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\FlashControlV71.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\mysqlbackup.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\EnvDTE.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\VSLangProj.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\VsWebSite.Interop.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\EnvDTE80.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\stdole.dll
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Cr_Form_Print_List_Etud.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Cr_Form_Print_List_Nots.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Cr_report_print.Cr_Form_certificat_scolarité.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.A_propose.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_ensiegnant.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Emploi.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Groupe.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Salle.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Print.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.Configue_Server.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.Déclaration.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S4.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S6.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S4.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S6.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\Gestion De Département.exe.config
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\Gestion De Département.exe
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\bin\Debug\Gestion De Département.pdb
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Gestion de département.csproj.Gestion De Département.exe.config
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Gestion De Département.exe
+C:\Users\Massoud Benkouider\Desktop\017\Projet_final_00\obj\Debug\Gestion De Département.pdb
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\Gestion De Département.exe.config
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Gestion De Département.exe
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Gestion De Département.pdb
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\Gestion De Département.exe
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\Gestion De Département.pdb
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\mscorlib.dll
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\mysqlbackup.dll
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\System.Net.Http.dll
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\CrystalDecisions.Web.dll
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\ShockwaveFlashObjects.dll
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\System.Net.Http.xml
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\fr\mscorlib.resources.dll
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\fr\System.Net.Http.resources.dll
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\normidna.nlp
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\normnfc.nlp
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\normnfd.nlp
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\normnfkc.nlp
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\bin\Debug\normnfkd.nlp
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Gestion de département.csprojResolveAssemblyReference.cache
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Cr_Form_Print_List_Etud.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Cr_Form_Print_List_Nots.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Cr_report_print.Cr_Form_certificat_scolarité.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.A_propose.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.administration.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_ensiegnant.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Ajouter_etudiant.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Confiduration.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_emploi.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_enseinant.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_etudiant.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Gestion_notes.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Emploi.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Groupe.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Note.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Get_Salle.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.admin.Print.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.Configue_Server.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.Connection.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.Déclaration.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.démarage.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.enseignant.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.etudiant.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.home.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S3.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S4.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S5.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Info_S6.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S3.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S4.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S5.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.Math_S6.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S1.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Forms.moyennes.MI_S2.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Get_Module.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.Properties.Resources.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_001.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_002.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_003.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Projet_final_00.UC_file.UC_004.resources
+E:\3 éme informatique\My Projects\Gestion de département\Projet_final_00\obj\Debug\Gestion de département.csproj.GenerateResource.Cache
